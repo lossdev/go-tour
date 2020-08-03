@@ -13,7 +13,7 @@ at least some of the previously covered topics, so going in order from the begin
 follows:
 
 * [basic syntax](syntax/)
-* data types, variable assignments, and scoping
+* [data types, variable assignments, and scoping](types-assignments-scoping/)
 * decision making and loops
 * functions and error handling
 * arrays, slices, strings, and type casting
