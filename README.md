@@ -20,5 +20,5 @@ follows:
 * data structures and encoding
 * maps, channels and goroutines
 * gomodules
-* object oriented programming and interfaces
+* object oriented programming, interfaces, and type assertions
 * testing and documentation
