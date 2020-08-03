@@ -2,7 +2,7 @@
 
 ## Covered Material:
 
-* if/else and switch statements
-* Differences between if/else and statements
-* for loop syntax and usage
+* `if/else` and `switch` statements
+* Differences between `if/else` and `switch` statements
+* `for` loop syntax and usage
 * Combining loops and switch statements
