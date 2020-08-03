@@ -21,3 +21,4 @@ follows:
 * maps, channels and goroutines
 * gomodules
 * object oriented programming and interfaces
+* testing and documentation
