@@ -12,7 +12,7 @@ at least some of the previously covered topics, so going in order from the begin
 (or starting where you're unfamiliar) is recommended. The list of subjects is as
 follows:
 
-* basic syntax
+* [basic syntax](syntax/)
 * data types, variable assignments, and scoping
 * decision making and loops
 * functions and error handling
