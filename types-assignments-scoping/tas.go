@@ -49,4 +49,12 @@ func main() {
     fmt.Println(d) // 1.23
     e := "Hello!"  // string type
     fmt.Println(e) // "Hello!"
+    /*
+        When a variable this is in scope has already been set, reassigning it to
+        another value is done using just =, not :=. := is ONLY used for 
+        initialization AND assignment of a variable. For example, since a is
+        already in scope, we can set it equal to something else:
+    */
+    a = 4
+    fmt.Println(a)
 }
