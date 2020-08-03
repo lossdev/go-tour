@@ -14,7 +14,7 @@ follows:
 
 * [basic syntax](syntax/)
 * [data types, variable assignments, and scoping](types-assignments-scoping/)
-* decision making and loops
+* [decision making and loops](decisions-loops/)
 * functions and error handling
 * arrays, slices, strings, and type casting
 * data structures and encoding
