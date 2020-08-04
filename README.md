@@ -18,7 +18,7 @@ follows:
 * [functions, type casting, and error handling](functions-casting-errors/)
 * [slices, arrays, and strings](slices-arrays-strings/)
 * [data structures and encoding](structures-encoding/)
-* maps, channels and goroutines
+* [maps, channels and goroutines](maps-channels-goroutines/)
 * gomodules
 * object oriented programming, interfaces, and type assertions
 * testing and documentation
