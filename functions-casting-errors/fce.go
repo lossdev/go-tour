@@ -89,6 +89,13 @@ func main() {
     } else {
         fmt.Println(val)
     }
+    // you can also use the blank identifier _ in place of a return value -
+    // useful for when you don't care about a certain value being returned, and 
+    // don't want to set a variable to hold it
+    _, err = multiplyStrings("2," "7")
+    if err != nil {
+        log.Println(err)
+    }
 }
 
 /*

@@ -8,3 +8,4 @@
 * type casting 
 * returning from functions and return values
 * returning and processing errors
+* blank identifiers
