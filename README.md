@@ -16,7 +16,7 @@ follows:
 * [data types, variable assignments, and scoping](types-assignments-scoping/)
 * [decision making and loops](decisions-loops/)
 * [functions, type casting, and error handling](functions-casting-errors/)
-* arrays, slices, and strings
+* [slices, arrays, and strings](slices-arrays-strings/)
 * data structures and encoding
 * maps, channels and goroutines
 * gomodules
