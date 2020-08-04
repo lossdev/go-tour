@@ -15,7 +15,7 @@ follows:
 * [basic syntax](syntax/)
 * [data types, variable assignments, and scoping](types-assignments-scoping/)
 * [decision making and loops](decisions-loops/)
-* functions, type casting, and error handling
+* [functions, type casting, and error handling](functions-casting-errors/)
 * arrays, slices, and strings
 * data structures and encoding
 * maps, channels and goroutines
