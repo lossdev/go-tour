@@ -17,7 +17,7 @@ follows:
 * [decision making and loops](decisions-loops/)
 * [functions, type casting, and error handling](functions-casting-errors/)
 * [slices, arrays, and strings](slices-arrays-strings/)
-* data structures and encoding
+* [data structures and encoding](structures-encoding/)
 * maps, channels and goroutines
 * gomodules
 * object oriented programming, interfaces, and type assertions
