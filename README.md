@@ -20,5 +20,5 @@ follows:
 * [data structures and encoding](structures-encoding/)
 * [maps, channels and goroutines](maps-channels-goroutines/)
 * [gomodules](gomodules/)
-* object oriented programming, interfaces, and type assertions
+* [object oriented programming, interfaces, and type assertions](oo-interfaces-assertions/)
 * testing and documentation
